@@ -1,4 +1,4 @@
-Olá! Me chamo Lucas Garcia 
+Olá, me chamo Lucas Garcia! 
 
 
 - 🔭 Futuro engenheiro de dados 
