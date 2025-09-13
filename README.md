@@ -1,9 +1,9 @@
 Olá, me chamo Lucas Garcia! 
 
 
-- 🔭 Futuro engenheiro de dados 
+- 🔭 Futuro Cientista de dados 
 - 🌱 Estudante de ciência da computação no primerio semestre na USJT
-- 💻 Aprendiz de data analytics na Honda 
+- 💻 Estagiario de data analytics no Itau 
 
 <div>
 <div align="">
