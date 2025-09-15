@@ -3,7 +3,7 @@ Olá, me chamo Lucas Garcia!
 
 - 🔭 Futuro Cientista de dados 
 - 🌱 Estudante de ciência da computação no primerio semestre na USJT
-- 💻 Estagiario de data analytics no Itau 
+- 💻 Estagiario de data analytics no Itau Unibanco
 
 <div>
 <div align="">
